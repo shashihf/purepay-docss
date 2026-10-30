@@ -1,0 +1,74 @@
+# PurePay
+
+> Guides and reference for the PurePay app
+
+This document contains the full content of all documentation pages for AI consumption.
+
+---
+
+## Getting Started
+
+**URL:** https://docs.example.com/docs/getting-started
+**Description:** Install PurePay and set up your profile
+
+## Requirements
+
+| Platform | Minimum version |
+| -------- | --------------- |
+| iOS      | TBD             |
+| Android  | TBD             |
+
+## Set up the app
+
+  
+  
+  
+
+## Next steps
+
+Once your profile is approved, follow the [Quickstart](/docs/quickstart) to make your first payment.
+
+---
+
+## Introduction
+
+**URL:** https://docs.example.com/docs
+**Description:** What PurePay is and where to start
+
+**PurePay** is a mobile app for sending and receiving payments directly between people.
+These docs explain how to set up the app, make payments, and manage your profile.
+
+  
+
+## What you can do with PurePay
+
+- Send and receive payments
+- Keep a verifiable history of every payment
+- Manage your profile and the details you share
+
+## Need help?
+
+If something in these docs is unclear or missing, contact the PurePay team.
+
+---
+
+## Quickstart
+
+**URL:** https://docs.example.com/docs/quickstart
+**Description:** Send your first payment with PurePay
+
+This guide assumes you have finished [Getting Started](/docs/getting-started) and your profile is approved.
+
+## Send a payment
+
+  
+  
+
+## Receive a payment
+
+Show your QR code to the person paying you, or share your profile with them.
+
+## Common questions
+
+---
+

@@ -1,0 +1,9 @@
+# PurePay
+
+> Guides and reference for the PurePay app
+
+## Documentation
+
+- [Getting Started](https://docs.example.com/docs/getting-started): Install PurePay and set up your profile
+- [Introduction](https://docs.example.com/docs): What PurePay is and where to start
+- [Quickstart](https://docs.example.com/docs/quickstart): Send your first payment with PurePay
